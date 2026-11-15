@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_desc">Detects the WhatsApp voice call button, cancels the WhatsApp call and places a normal phone call instead.</string>
+</resources>
